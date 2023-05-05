@@ -1,8 +1,8 @@
 body{
-background-color: navy;
+background-color: #000000;
 }
 .Cabeçalho{
 
-    margin: 0 16px;
-    font-size: 24px;
+    margin: 0 40px;
+    font-size: 50px;
 }
