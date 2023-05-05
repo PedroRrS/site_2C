@@ -1,8 +1,11 @@
-body{
-background-color: #000000;
-}
 .Cabeçalho{
-
+    background-color: #a81010;
     margin: 0 40px;
     font-size: 50px;
+}
+.imagem pimenta{
+    width: 25%;
+}
+.corpo {
+    background-color: rgb(0, 0, 0);
 }
