@@ -1,11 +1,11 @@
 .Cabeçalho{
-    background-color: #ff0000;
-    margin: 0 30px;
+    background-color: #991818;
+    margin: 0 50px;
     font-size: 20px;
 }
 .imagempimenta{
-width: 50%;
+width: 10%;
 }
 .corpo{
-    background-color: black;
+    background-color: rgb(73, 12, 12);
 }
