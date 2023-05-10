@@ -1,5 +1,5 @@
 .Cabeçalho{
-    background-color: hsla(0, 94%, 50%, 0.233);
+    background-color: hsla(0, 75%, 34%, 0.815);
     margin: 0 50px;
     font-size: 20px;
 }
@@ -7,7 +7,7 @@
 width: 10%;
 }
 .corpo{
-    background-color: rgb(24, 1, 1);
+    background-color: rgba(117, 25, 25, 0.212);
 }
 .imagempimenta2{
     width: 20%;
