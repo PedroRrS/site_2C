@@ -1,13 +1,13 @@
 .Cabeçalho{
     background-color: hsla(0, 75%, 34%, 0.815);
-    margin: 0 50px;
+    margin: 0 10px;
     font-size: 20px;
 }
 .imagempimenta{
 width: 20%;
 }
 .corpo{
-    background-color: rgba(117, 25, 25, 0.212);
+    background-color: rgb(105, 24, 24);
 }
 .imagempimenta2{
     width: 20%;
