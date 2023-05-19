@@ -1,14 +1,17 @@
 .Cabeçalho{
-    background-color: hsl(0, 100%, 51%);
-    margin: 0 5px;
+    background-color: hsl(0, 92%, 64%);
+    margin: 0 20px;
     font-size: 30px;
 }
 .imagempimenta{
-width: 25%;
+width: 21%;
 }
 .corpo{
-    background-color: rgb(110, 22, 22);
+    background-color: rgb(68, 16, 16);
 }
 .imagempimenta2{
-    width: 25%;
+    width: 21%;
+}
+.paragrafo1{
+    font-size: 25px;
 }
