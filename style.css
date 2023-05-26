@@ -1,5 +1,5 @@
 .Cabeçalho{
-    background-color: hsl(0, 92%, 64%);
+    background-color: hsla(0, 76%, 39%, 0.884);
     margin: 0 20px;
     font-size: 30px;
 }
@@ -14,4 +14,7 @@ width: 21%;
 }
 .paragrafo1{
     font-size: 25px;
+}
+.plantando{
+    width: 50%;
 }
