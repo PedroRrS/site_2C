@@ -34,5 +34,13 @@ width: 21%;
     width: 30%;
 }
 .paragrafo3{
-    font-size: 25px;
+    font-size: 30px;
+}
+.cabeçalho3{
+    background-color: rgb(95, 10, 10);
+    margin: 20px;
+}
+.Etapa2{
+    font-size: 50px;
+    color: black;
 }
