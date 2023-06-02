@@ -2,6 +2,7 @@
     background-color: hsla(0, 76%, 39%, 0.884);
     margin: 0 20px;
     font-size: 30px;
+    justify-content: space-around;
 }
 .imagempimenta{
 width: 21%;
@@ -18,6 +19,7 @@ width: 21%;
 .cabeçalho2{
     background-color: rgba(245, 5, 5, 0.767);
     margin: 20px;
+    background-image: -moz-linear-gradient(rgb(121, 16, 16), rgb(240, 2, 34));
 }
 
 .plantando{
