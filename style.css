@@ -2,13 +2,13 @@
     background-color: hsla(0, 76%, 39%, 0.884);
     margin: 0 20px;
     font-size: 30px;
-    justify-content: space-around;
+    justify-content: baseline;
 }
 .imagempimenta{
 width: 21%;
 }
 .corpo{
-    background-color: rgb(68, 16, 16);
+    background-color: rgb(92, 19, 19);
 }
 .imagempimenta2{
     width: 21%;
