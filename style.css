@@ -2,7 +2,7 @@
     background-color: hsla(0, 76%, 39%, 0.884);
     margin: 0 20px;
     font-size: 30px;
-    justify-content: space-around;
+    justify-content: right;
 }
 .imagempimenta{
 width: 21%;
@@ -23,7 +23,7 @@ width: 21%;
 }
 
 .plantando{
-    width: 40%;
+    width: 35%;
 }
 .Etapa1{
     font-size: 50px;
@@ -33,7 +33,7 @@ width: 21%;
     font-size: 30px;
 }
 .plantando2{
-    width: 25%;
+    width: 30%;
 }
 .paragrafo3{
     font-size: 30px;
@@ -46,7 +46,7 @@ width: 21%;
 .Etapa2{
     font-size: 50px;
     color: black;
-    
+
 }
 .paragrafo4{
     font-size: 30px;
