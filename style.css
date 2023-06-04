@@ -30,7 +30,7 @@ width: 21%;
 
 }
 .paragrafo2{
-    font-size: 25px;
+    font-size: 30px;
 }
 .plantando2{
     width: 25%;
@@ -46,14 +46,17 @@ width: 21%;
 .Etapa2{
     font-size: 50px;
     color: black;
+    
 }
 .paragrafo4{
-    font-size: 25px;
+    font-size: 30px;
 }
 .plantaadulta{
     width: 35%;
+    justify-content: left;
 }
 .paragrafo5{
     color: rgba(8, 68, 11, 0.892);
-    font-size: 25px;
+    font-size: 30px;
+    justify-content: right;
 }
