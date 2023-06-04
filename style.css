@@ -1,5 +1,5 @@
 .Cabeçalho{
-    background-color: hsla(0, 76%, 39%, 0.884);
+    background-color: hsla(0, 81%, 41%, 0.884);
     margin: 0 20px;
     font-size: 30px;
     justify-content: right;
@@ -8,7 +8,7 @@
 width: 21%;
 }
 .corpo{
-    background-color: rgb(92, 19, 19);
+    background-color: rgb(87, 15, 15);
 }
 .imagempimenta2{
     width: 21%;
@@ -40,23 +40,22 @@ width: 21%;
     color: black;
 }
 .cabeçalho3{
-    background-color: rgb(139, 11, 11);
+    background-color: rgb(176, 11, 11);
     margin: 20px;
 }
 .Etapa2{
     font-size: 50px;
     color: black;
-
+    justify-content: baseline;
+    justify-self: auto;
 }
 .paragrafo4{
     font-size: 30px;
 }
 .plantaadulta{
     width: 35%;
-    justify-content: left;
 }
 .paragrafo5{
-    color: rgba(8, 68, 11, 0.892);
+    color: aqua;
     font-size: 30px;
-    justify-content: right;
 }
