@@ -2,7 +2,7 @@
     background-color: hsla(0, 76%, 39%, 0.884);
     margin: 0 20px;
     font-size: 30px;
-    justify-content: baseline;
+    justify-content: space-around;
 }
 .imagempimenta{
 width: 21%;
@@ -47,5 +47,12 @@ width: 21%;
     color: black;
 }
 .paragrafo4{
+    font-size: 25px;
+}
+.plantaadulta{
+    width: 35%;
+}
+.paragrafo5{
+    color: aquamarine;
     font-size: 25px;
 }
