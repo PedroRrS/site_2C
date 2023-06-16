@@ -12,9 +12,10 @@ width: 21%;
 }
 .imagempimenta2{
     width: 21%;
-}
+}font-style: italic;
 .paragrafo1{
     font-size: 25px;
+    font-style: italic;
 }
 .cabeçalho2{
     background-color: rgba(245, 5, 5, 0.767);
@@ -31,16 +32,18 @@ width: 21%;
 }
 .paragrafo2{
     font-size: 30px;
+    font-style: italic;
 }
 .plantando2{
     width: 30%;
 }
 .paragrafo3{
     font-size: 30px;
+    font-style: italic;
     color: black;
 }
 .cabeçalho3{
-    background-color: rgb(224, 14, 14);
+    background-color: rgb(192, 12, 12);
     margin: 20px;
     justify-content: baseline;
     justify-self: auto;
@@ -52,9 +55,10 @@ width: 21%;
 }
 .paragrafo4{
     font-size: 30px;
+    font-style: italic;
 }
 .plantaadulta{
-    width: 35%;
+    width: 25%;
 }
 .paragrafo5{
     font-size: 30px;
