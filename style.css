@@ -20,7 +20,7 @@ width: 21%;
 .cabeçalho2{
     background-color: rgba(245, 5, 5, 0.767);
     margin: 20px;
-    background-image: linear-gradient(to right, rgba(255, 0, 0, 0.705), rgb(148, 12, 12));
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0.322), rgb(148, 12, 12));
 }
 
 .plantando{
