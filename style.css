@@ -64,3 +64,7 @@ width: 21%;
     font-size: 30px;
     font-style: italic;
 }
+.alinhamento{
+    display: flex;
+    justify-content: space-around;
+}
