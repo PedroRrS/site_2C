@@ -45,8 +45,6 @@ width: 21%;
 .cabeçalho3{
     background-color: rgb(192, 12, 12);
     margin: 20px;
-    justify-content: space-around;
-    display: flex;
 }
 .Etapa2{
     font-size: 50px;
@@ -69,6 +67,10 @@ width: 21%;
     justify-content: space-around;
 }
 .alinha2{
+    display: flex;
+    justify-content: space-around;
+}
+.alinha3{
     display: flex;
     justify-content: space-around;
 }
